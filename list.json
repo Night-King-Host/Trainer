@@ -2555,6 +2555,30 @@
             "title": "CUSA16261",
             "version": "01.05",
             "url": "CUSA16261_01.05.json"
+        },
+        {
+            "name": "Zombie Army Trilogy",
+            "title": "CUSA01773",
+            "version": "01.00",
+            "url": "CUSA01773_01.00.json"
+        },
+        {
+            "name": "Watch Dogs®: Legion",
+            "title": "CUSA13115",
+            "version": "1.02",
+            "url": "CUSA13115_1.02.json"
+        },
+        {
+            "name": "CAPTAIN TSUBASA: RISE OF NEW CHAMPIONS",
+            "title": "CUSA14896",
+            "version": "1.02",
+            "url": "CUSA14896_1.02.json"
+        },
+        {
+            "name": "Bayonetta",
+            "title": "CUSA16163",
+            "version": "01.01",
+            "url": "CUSA16163_01.01.json"
         }
     ]
 }
